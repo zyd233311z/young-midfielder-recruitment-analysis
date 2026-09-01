@@ -24,3 +24,7 @@ The project uses per-90 metrics, correlation analysis, percentiles, and six stat
 ## Data
 
 The dataset was obtained from Kaggle and is based on 2024/25 player statistics from Europe's Big Five leagues.
+
+## Full Analysis
+
+See [analysis.ipynb](analysis.ipynb) for the full analysis.
